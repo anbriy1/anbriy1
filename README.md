@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=31&pause=1300&color=00FF88&center=true&vCenter=true&width=960&lines=Hi%2C+I%27m+LORI4;Frontend+%2B+Backend+%2B+Full+Stack;React+%7C+TypeScript+%7C+Python" alt="Typing animation" />
 </p>
 
-<p align="center">
-  <img height="220" src="https://github-readme-stats.vercel.app/api?username=anbriy1&show_icons=true&hide_border=true&theme=dark&title_color=00FF88&text_color=C7D5CF&icon_color=00FF88&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub stats" />
-</p>
-
 ## About Me
 
 I am `LORI4` - a developer and tech engineer.
@@ -17,10 +13,10 @@ I build interfaces, services, and real products. I value clean structure, clear 
 ### Stack
 
 <p align="center">
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+  <img style="transform: scale(1.8); margin: 10px;" alt="React" src="https://img.shields.io/badge/React-00FF88?style=flat&logo=react&logoColor=000000">
+  <img style="transform: scale(1.8); margin: 10px;" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-00FF88?style=flat&logo=typescript&logoColor=000000">
+  <img style="transform: scale(1.8); margin: 10px;" alt="Python" src="https://img.shields.io/badge/Python-00FF88?style=flat&logo=python&logoColor=000000">
+  <img style="transform: scale(1.8); margin: 10px;" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-00FF88?style=flat&logo=javascript&logoColor=000000">
 </p>
 
 ### Adobe
@@ -28,20 +24,24 @@ I build interfaces, services, and real products. I value clean structure, clear 
 I work with the full Adobe package.
 
 <p align="center">
-  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white">
-  <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white">
-  <img alt="After Effects" src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white">
-  <img alt="Premiere Pro" src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white">
+  <img style="transform: scale(1.8); margin: 10px;" alt="Photoshop" src="https://img.shields.io/badge/Photoshop-00FF88?style=flat&logo=adobephotoshop&logoColor=000000">
+  <img style="transform: scale(1.8); margin: 10px;" alt="Illustrator" src="https://img.shields.io/badge/Illustrator-00FF88?style=flat&logo=adobeillustrator&logoColor=000000">
+  <img style="transform: scale(1.8); margin: 10px;" alt="After Effects" src="https://img.shields.io/badge/After%20Effects-00FF88?style=flat&logo=adobeaftereffects&logoColor=000000">
+  <img style="transform: scale(1.8); margin: 10px;" alt="Premiere Pro" src="https://img.shields.io/badge/Premiere%20Pro-00FF88?style=flat&logo=adobepremierepro&logoColor=000000">
 </p>
 
 ### Stats
 
 <p align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=anbriy1&show_icons=true&hide_border=true&theme=dark&title_color=00FF88&text_color=C7D5CF&icon_color=00FF88&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=anbriy1&theme=dark&hide_border=true&stroke=00FF88" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anbriy1&theme=github_dark" alt="Profile details" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anbriy1&bg_color=000000&color=00FF88&line=00FF88&point=00FF88&area=true&hide_border=true&theme=github-dark" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=anbriy1&theme=nord&column=3&margin-w=15&margin-h=15&no-bg=true" alt="Trophies" />
 </p>
 
 ## Short Version
