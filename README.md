@@ -13,10 +13,10 @@ I build interfaces, services, and real products. I value clean structure, clear 
 ### Stack
 
 <p align="center">
-  <img style="transform: scale(3.6); margin: 20px;" alt="React" src="https://img.shields.io/badge/React-00FF88?style=flat&logo=react&logoColor=000000">
-  <img style="transform: scale(3.6); margin: 20px;" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-00FF88?style=flat&logo=typescript&logoColor=000000">
-  <img style="transform: scale(3.6); margin: 20px;" alt="Python" src="https://img.shields.io/badge/Python-00FF88?style=flat&logo=python&logoColor=000000">
-  <img style="transform: scale(3.6); margin: 20px;" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-00FF88?style=flat&logo=javascript&logoColor=000000">
+  <img style="transform: scale(5); margin: 25px;" alt="React" src="https://img.shields.io/badge/React-00FF88?style=flat&logo=react&logoColor=000000">
+  <img style="transform: scale(5); margin: 25px;" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-00FF88?style=flat&logo=typescript&logoColor=000000">
+  <img style="transform: scale(5); margin: 25px;" alt="Python" src="https://img.shields.io/badge/Python-00FF88?style=flat&logo=python&logoColor=000000">
+  <img style="transform: scale(5); margin: 25px;" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-00FF88?style=flat&logo=javascript&logoColor=000000">
 </p>
 
 ### Adobe
@@ -24,10 +24,10 @@ I build interfaces, services, and real products. I value clean structure, clear 
 I work with the full Adobe package.
 
 <p align="center">
-  <img style="transform: scale(3.6); margin: 20px;" alt="Photoshop" src="https://img.shields.io/badge/Photoshop-00FF88?style=flat&logo=adobephotoshop&logoColor=000000">
-  <img style="transform: scale(3.6); margin: 20px;" alt="Illustrator" src="https://img.shields.io/badge/Illustrator-00FF88?style=flat&logo=adobeillustrator&logoColor=000000">
-  <img style="transform: scale(3.6); margin: 20px;" alt="After Effects" src="https://img.shields.io/badge/After%20Effects-00FF88?style=flat&logo=adobeaftereffects&logoColor=000000">
-  <img style="transform: scale(3.6); margin: 20px;" alt="Premiere Pro" src="https://img.shields.io/badge/Premiere%20Pro-00FF88?style=flat&logo=adobepremierepro&logoColor=000000">
+  <img style="transform: scale(5); margin: 25px;" alt="Photoshop" src="https://img.shields.io/badge/Photoshop-00FF88?style=flat&logo=adobephotoshop&logoColor=000000">
+  <img style="transform: scale(5); margin: 25px;" alt="Illustrator" src="https://img.shields.io/badge/Illustrator-00FF88?style=flat&logo=adobeillustrator&logoColor=000000">
+  <img style="transform: scale(5); margin: 25px;" alt="After Effects" src="https://img.shields.io/badge/After%20Effects-00FF88?style=flat&logo=adobeaftereffects&logoColor=000000">
+  <img style="transform: scale(5); margin: 25px;" alt="Premiere Pro" src="https://img.shields.io/badge/Premiere%20Pro-00FF88?style=flat&logo=adobepremierepro&logoColor=000000">
 </p>
 
 ### Stats
