@@ -17,10 +17,10 @@ I build interfaces, services, and real products. I value clean structure, clear 
 ### Stack
 
 <p align="center">
-  <img width="1344" src="https://cdn.simpleicons.org/react/00FF88" alt="React" />
-  <img width="1344" src="https://cdn.simpleicons.org/typescript/00FF88" alt="TypeScript" />
-  <img width="1344" src="https://cdn.simpleicons.org/python/00FF88" alt="Python" />
-  <img width="1344" src="https://cdn.simpleicons.org/javascript/00FF88" alt="JavaScript" />
+  <img width="336" src="https://cdn.simpleicons.org/react/00FF88" alt="React" />
+  <img width="336" src="https://cdn.simpleicons.org/typescript/00FF88" alt="TypeScript" />
+  <img width="336" src="https://cdn.simpleicons.org/python/00FF88" alt="Python" />
+  <img width="336" src="https://cdn.simpleicons.org/javascript/00FF88" alt="JavaScript" />
 </p>
 
 ### Adobe
@@ -28,10 +28,10 @@ I build interfaces, services, and real products. I value clean structure, clear 
 I work with the full Adobe package.
 
 <p align="center">
-  <img width="1344" src="https://cdn.simpleicons.org/adobephotoshop/00FF88" alt="Photoshop" />
-  <img width="1344" src="https://cdn.simpleicons.org/adobeillustrator/00FF88" alt="Illustrator" />
-  <img width="1344" src="https://cdn.simpleicons.org/adobeaftereffects/00FF88" alt="After Effects" />
-  <img width="1344" src="https://cdn.simpleicons.org/adobepremierepro/00FF88" alt="Premiere Pro" />
+  <img width="336" src="https://cdn.simpleicons.org/adobephotoshop/00FF88" alt="Photoshop" />
+  <img width="336" src="https://cdn.simpleicons.org/adobeillustrator/00FF88" alt="Illustrator" />
+  <img width="336" src="https://cdn.simpleicons.org/adobeaftereffects/00FF88" alt="After Effects" />
+  <img width="336" src="https://cdn.simpleicons.org/adobepremierepro/00FF88" alt="Premiere Pro" />
 </p>
 
 
