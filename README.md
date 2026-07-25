@@ -17,10 +17,10 @@ I build interfaces, services, and real products. I value clean structure, clear 
 ### Stack
 
 <p align="center">
-  <img width="112" src="https://cdn.simpleicons.org/react/00FF88" alt="React" />
-  <img width="112" src="https://cdn.simpleicons.org/typescript/00FF88" alt="TypeScript" />
-  <img width="112" src="https://cdn.simpleicons.org/python/00FF88" alt="Python" />
-  <img width="112" src="https://cdn.simpleicons.org/javascript/00FF88" alt="JavaScript" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
 </p>
 
 ### Adobe
@@ -28,10 +28,10 @@ I build interfaces, services, and real products. I value clean structure, clear 
 I work with the full Adobe package.
 
 <p align="center">
-  <img width="112" src="https://cdn.simpleicons.org/adobephotoshop/00FF88" alt="Photoshop" />
-  <img width="112" src="https://cdn.simpleicons.org/adobeillustrator/00FF88" alt="Illustrator" />
-  <img width="112" src="https://cdn.simpleicons.org/adobeaftereffects/00FF88" alt="After Effects" />
-  <img width="112" src="https://cdn.simpleicons.org/adobepremierepro/00FF88" alt="Premiere Pro" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white">
+  <img alt="Illustrator" src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white">
+  <img alt="After Effects" src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat&logo=adobeaftereffects&logoColor=white">
+  <img alt="Premiere Pro" src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=flat&logo=adobepremierepro&logoColor=white">
 </p>
 
 ### Stats
