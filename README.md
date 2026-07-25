@@ -30,21 +30,10 @@ I work with the full Adobe package.
   <img style="transform: scale(3.6); margin: 20px;" alt="Premiere Pro" src="https://img.shields.io/badge/Premiere%20Pro-00FF88?style=flat&logo=adobepremierepro&logoColor=000000">
 </p>
 
-### Top Projects
+### Stats
 
 <p align="center">
-  <a href="https://github.com/anbriy1/website-villa-rules">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=anbriy1&repo=website-villa-rules&theme=github_dark&bg_color=000000&text_color=00FF88&title_color=00FF88&hide_border=true" alt="Villa Rules" />
-  </a>
-  <a href="https://github.com/anbriy1/web-studio">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=anbriy1&repo=web-studio&theme=github_dark&bg_color=000000&text_color=00FF88&title_color=00FF88&hide_border=true" alt="Web Studio" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anbriy1/web-site-shop">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/pin/?username=anbriy1&repo=web-site-shop&theme=github_dark&bg_color=000000&text_color=00FF88&title_color=00FF88&hide_border=true" alt="Web Shop" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anbriy1&theme=github_dark" alt="Profile Details" />
 </p>
 
 ## Short Version
