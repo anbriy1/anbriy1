@@ -1,11 +1,11 @@
 # LORI4
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1400&color=9CA3AF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+LORI4;Frontend+%2B+Backend+%2B+Full+Stack;React+%7C+TypeScript+%7C+Python" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=29&pause=1300&color=00FF88&center=true&vCenter=true&width=860&lines=Hi%2C+I%27m+LORI4;Frontend+%2B+Backend+%2B+Full+Stack;React+%7C+TypeScript+%7C+Python" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LORI4&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="220" src="https://github-readme-stats.vercel.app/api?username=anbriy1&show_icons=true&hide_border=true&theme=dark&title_color=00FF88&text_color=C7D5CF&icon_color=00FF88&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub stats" />
 </p>
 
 ## About Me
@@ -17,10 +17,10 @@ I build interfaces, services, and real products. I value clean structure, clear 
 ### Stack
 
 <p>
-  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img height="60" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00FF88" alt="React" />
+  <img height="60" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00FF88" alt="TypeScript" />
+  <img height="60" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF88" alt="Python" />
+  <img height="60" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF88" alt="JavaScript" />
 </p>
 
 ### Adobe
@@ -28,17 +28,17 @@ I build interfaces, services, and real products. I value clean structure, clear 
 I work with the full Adobe package:
 
 <p>
-  <img src="https://img.shields.io/badge/Photoshop-111111?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Illustrator-111111?style=flat-square&logo=adobeillustrator&logoColor=FF9A00" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/After%20Effects-111111?style=flat-square&logo=adobeaftereffects&logoColor=9999FF" alt="After Effects" />
-  <img src="https://img.shields.io/badge/Premiere%20Pro-111111?style=flat-square&logo=adobepremierepro&logoColor=9999FF" alt="Premiere Pro" />
+  <img height="60" src="https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=00FF88" alt="Photoshop" />
+  <img height="60" src="https://img.shields.io/badge/Illustrator-000000?style=for-the-badge&logo=adobeillustrator&logoColor=00FF88" alt="Illustrator" />
+  <img height="60" src="https://img.shields.io/badge/After%20Effects-000000?style=for-the-badge&logo=adobeaftereffects&logoColor=00FF88" alt="After Effects" />
+  <img height="60" src="https://img.shields.io/badge/Premiere%20Pro-000000?style=for-the-badge&logo=adobepremierepro&logoColor=00FF88" alt="Premiere Pro" />
 </p>
 
 ### Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=LORI4&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LORI4&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=anbriy1&show_icons=true&hide_border=true&theme=dark&title_color=00FF88&text_color=C7D5CF&icon_color=00FF88&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anbriy1&layout=compact&hide_border=true&theme=dark&title_color=00FF88&text_color=C7D5CF&bg_color=00000000" alt="Top languages" />
 </p>
 
 ## Short Version
@@ -49,5 +49,5 @@ I work with the full Adobe package:
 - I like clean UI and calm presentation
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:374151&height=90&section=footer" alt="Footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF88&height=110&section=footer" alt="Footer wave" />
 </p>
