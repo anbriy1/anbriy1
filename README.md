@@ -39,7 +39,7 @@ I work with the full Adobe package.
 ## Short Version
 
 - `React`, `TypeScript`, `Python`
-- frontend, backend, full stack
+- frontend, backend = full stack
 - Adobe: Photoshop, Illustrator, After Effects, Premiere Pro
 - I like clean UI and calm presentation
 
